@@ -1,0 +1,7 @@
+name: Estella
+version: '${project.version}'
+main: com.qm.estella.Estella
+api-version: 1.17
+commands:
+  인증:
+  채집:
